@@ -16,3 +16,4 @@ Doing this assignment was funny.
 The assignment is related to GitHub.
 
 I do commits in the main branch.
+Have a nice day!
