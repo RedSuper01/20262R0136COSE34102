@@ -13,3 +13,4 @@ It reflects the description of Operating System class I am taking.
 
 This is an additional (not mandatory) assignment.
 Doing this assignment was funny.
+The assignment is related to GitHub.
