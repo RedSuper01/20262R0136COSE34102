@@ -7,7 +7,7 @@ According to the assignment instructions, the due date for this assignment is No
 This project does not require any additional installations. 
 Neither it requires any specific hardware. 
 
-The name of this project is 20262RCOSE32202. 
+The name of this project is 20262R0136COSE34102. 
 It reflects the description of Operating System class I am taking.
 
 This is an additional (not mandatory) assignment.
