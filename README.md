@@ -1,4 +1,3 @@
-# 20262RCOSE32202
 # 20262R0136COSE34102
 This is a README.md file for Operating Systems class. 
 
